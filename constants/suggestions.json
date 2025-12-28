@@ -1,0 +1,2907 @@
+[
+  {
+    "name": "🥩 Meat & Protein",
+    "category": "🍎 Food & Grocery",
+    "subcategory": "General"
+  },
+  {
+    "name": "Chicken breast",
+    "category": "🍎 Food & Grocery",
+    "subcategory": "General"
+  },
+  {
+    "name": "Chicken thighs",
+    "category": "🍎 Food & Grocery",
+    "subcategory": "General"
+  },
+  {
+    "name": "Chicken wings",
+    "category": "🍎 Food & Grocery",
+    "subcategory": "General"
+  },
+  {
+    "name": "Whole chicken",
+    "category": "🍎 Food & Grocery",
+    "subcategory": "General"
+  },
+  {
+    "name": "Ground beef",
+    "category": "🍎 Food & Grocery",
+    "subcategory": "General"
+  },
+  {
+    "name": "Beef steak",
+    "category": "🍎 Food & Grocery",
+    "subcategory": "General"
+  },
+  {
+    "name": "Lamb chops",
+    "category": "🍎 Food & Grocery",
+    "subcategory": "General"
+  },
+  {
+    "name": "Minced lamb",
+    "category": "🍎 Food & Grocery",
+    "subcategory": "General"
+  },
+  {
+    "name": "Pork ribs",
+    "category": "🍎 Food & Grocery",
+    "subcategory": "General"
+  },
+  {
+    "name": "Sausages",
+    "category": "🍎 Food & Grocery",
+    "subcategory": "General"
+  },
+  {
+    "name": "Bacon",
+    "category": "🍎 Food & Grocery",
+    "subcategory": "General"
+  },
+  {
+    "name": "Turkey breast",
+    "category": "🍎 Food & Grocery",
+    "subcategory": "General"
+  },
+  {
+    "name": "Fish fillets",
+    "category": "🍎 Food & Grocery",
+    "subcategory": "General"
+  },
+  {
+    "name": "Salmon",
+    "category": "🍎 Food & Grocery",
+    "subcategory": "General"
+  },
+  {
+    "name": "Tuna steak",
+    "category": "🍎 Food & Grocery",
+    "subcategory": "General"
+  },
+  {
+    "name": "Shrimp",
+    "category": "🍎 Food & Grocery",
+    "subcategory": "General"
+  },
+  {
+    "name": "Eggs (dozen)",
+    "category": "🍎 Food & Grocery",
+    "subcategory": "General"
+  },
+  {
+    "name": "Canned tuna",
+    "category": "🍎 Food & Grocery",
+    "subcategory": "General"
+  },
+  {
+    "name": "Canned sardines",
+    "category": "🍎 Food & Grocery",
+    "subcategory": "General"
+  },
+  {
+    "name": "Hot dogs",
+    "category": "🍎 Food & Grocery",
+    "subcategory": "General"
+  },
+  {
+    "name": "🥬 Vegetables",
+    "category": "🍎 Food & Grocery",
+    "subcategory": "General"
+  },
+  {
+    "name": "Potatoes",
+    "category": "🍎 Food & Grocery",
+    "subcategory": "General"
+  },
+  {
+    "name": "Sweet potatoes",
+    "category": "🍎 Food & Grocery",
+    "subcategory": "General"
+  },
+  {
+    "name": "Tomatoes",
+    "category": "🍎 Food & Grocery",
+    "subcategory": "General"
+  },
+  {
+    "name": "Cherry tomatoes",
+    "category": "🍎 Food & Grocery",
+    "subcategory": "General"
+  },
+  {
+    "name": "Onions",
+    "category": "🍎 Food & Grocery",
+    "subcategory": "General"
+  },
+  {
+    "name": "Red onions",
+    "category": "🍎 Food & Grocery",
+    "subcategory": "General"
+  },
+  {
+    "name": "Garlic",
+    "category": "🍎 Food & Grocery",
+    "subcategory": "General"
+  },
+  {
+    "name": "Carrots",
+    "category": "🍎 Food & Grocery",
+    "subcategory": "General"
+  },
+  {
+    "name": "Lettuce",
+    "category": "🍎 Food & Grocery",
+    "subcategory": "General"
+  },
+  {
+    "name": "Spinach",
+    "category": "🍎 Food & Grocery",
+    "subcategory": "General"
+  },
+  {
+    "name": "Broccoli",
+    "category": "🍎 Food & Grocery",
+    "subcategory": "General"
+  },
+  {
+    "name": "Cauliflower",
+    "category": "🍎 Food & Grocery",
+    "subcategory": "General"
+  },
+  {
+    "name": "Cucumbers",
+    "category": "🍎 Food & Grocery",
+    "subcategory": "General"
+  },
+  {
+    "name": "Zucchini",
+    "category": "🍎 Food & Grocery",
+    "subcategory": "General"
+  },
+  {
+    "name": "Eggplant",
+    "category": "🍎 Food & Grocery",
+    "subcategory": "General"
+  },
+  {
+    "name": "Bell peppers",
+    "category": "🍎 Food & Grocery",
+    "subcategory": "General"
+  },
+  {
+    "name": "Mushrooms",
+    "category": "🍎 Food & Grocery",
+    "subcategory": "General"
+  },
+  {
+    "name": "Celery",
+    "category": "🍎 Food & Grocery",
+    "subcategory": "General"
+  },
+  {
+    "name": "Green beans",
+    "category": "🍎 Food & Grocery",
+    "subcategory": "General"
+  },
+  {
+    "name": "Cabbage",
+    "category": "🍎 Food & Grocery",
+    "subcategory": "General"
+  },
+  {
+    "name": "Corn",
+    "category": "🍎 Food & Grocery",
+    "subcategory": "General"
+  },
+  {
+    "name": "Kale",
+    "category": "🍎 Food & Grocery",
+    "subcategory": "General"
+  },
+  {
+    "name": "Avocados",
+    "category": "🍎 Food & Grocery",
+    "subcategory": "General"
+  },
+  {
+    "name": "Apples",
+    "category": "🍎 Fruits",
+    "subcategory": "General"
+  },
+  {
+    "name": "Bananas",
+    "category": "🍎 Fruits",
+    "subcategory": "General"
+  },
+  {
+    "name": "Oranges",
+    "category": "🍎 Fruits",
+    "subcategory": "General"
+  },
+  {
+    "name": "Tangerines",
+    "category": "🍎 Fruits",
+    "subcategory": "General"
+  },
+  {
+    "name": "Grapes",
+    "category": "🍎 Fruits",
+    "subcategory": "General"
+  },
+  {
+    "name": "Watermelon",
+    "category": "🍎 Fruits",
+    "subcategory": "General"
+  },
+  {
+    "name": "Pineapple",
+    "category": "🍎 Fruits",
+    "subcategory": "General"
+  },
+  {
+    "name": "Strawberries",
+    "category": "🍎 Fruits",
+    "subcategory": "General"
+  },
+  {
+    "name": "Blueberries",
+    "category": "🍎 Fruits",
+    "subcategory": "General"
+  },
+  {
+    "name": "Raspberries",
+    "category": "🍎 Fruits",
+    "subcategory": "General"
+  },
+  {
+    "name": "Blackberries",
+    "category": "🍎 Fruits",
+    "subcategory": "General"
+  },
+  {
+    "name": "Mangoes",
+    "category": "🍎 Fruits",
+    "subcategory": "General"
+  },
+  {
+    "name": "Papaya",
+    "category": "🍎 Fruits",
+    "subcategory": "General"
+  },
+  {
+    "name": "Pears",
+    "category": "🍎 Fruits",
+    "subcategory": "General"
+  },
+  {
+    "name": "Peaches",
+    "category": "🍎 Fruits",
+    "subcategory": "General"
+  },
+  {
+    "name": "Nectarines",
+    "category": "🍎 Fruits",
+    "subcategory": "General"
+  },
+  {
+    "name": "Cherries",
+    "category": "🍎 Fruits",
+    "subcategory": "General"
+  },
+  {
+    "name": "Kiwi",
+    "category": "🍎 Fruits",
+    "subcategory": "General"
+  },
+  {
+    "name": "Lemons",
+    "category": "🍎 Fruits",
+    "subcategory": "General"
+  },
+  {
+    "name": "Limes",
+    "category": "🍎 Fruits",
+    "subcategory": "General"
+  },
+  {
+    "name": "Plums",
+    "category": "🍎 Fruits",
+    "subcategory": "General"
+  },
+  {
+    "name": "Pomegranate",
+    "category": "🍎 Fruits",
+    "subcategory": "General"
+  },
+  {
+    "name": "Dates",
+    "category": "🍎 Fruits",
+    "subcategory": "General"
+  },
+  {
+    "name": "Figs",
+    "category": "🍎 Fruits",
+    "subcategory": "General"
+  },
+  {
+    "name": "🥖 Bakery",
+    "category": "🍎 Fruits",
+    "subcategory": "General"
+  },
+  {
+    "name": "White bread loaf",
+    "category": "🍎 Fruits",
+    "subcategory": "General"
+  },
+  {
+    "name": "Whole wheat bread",
+    "category": "🍎 Fruits",
+    "subcategory": "General"
+  },
+  {
+    "name": "Baguette",
+    "category": "🍎 Fruits",
+    "subcategory": "General"
+  },
+  {
+    "name": "Pita bread",
+    "category": "🍎 Fruits",
+    "subcategory": "General"
+  },
+  {
+    "name": "Tortillas",
+    "category": "🍎 Fruits",
+    "subcategory": "General"
+  },
+  {
+    "name": "Bagels",
+    "category": "🍎 Fruits",
+    "subcategory": "General"
+  },
+  {
+    "name": "Croissants",
+    "category": "🍎 Fruits",
+    "subcategory": "General"
+  },
+  {
+    "name": "Brioche buns",
+    "category": "🍎 Fruits",
+    "subcategory": "General"
+  },
+  {
+    "name": "Hamburger buns",
+    "category": "🍎 Fruits",
+    "subcategory": "General"
+  },
+  {
+    "name": "Hot dog buns",
+    "category": "🍎 Fruits",
+    "subcategory": "General"
+  },
+  {
+    "name": "Breadsticks",
+    "category": "🍎 Fruits",
+    "subcategory": "General"
+  },
+  {
+    "name": "Crackers",
+    "category": "🍎 Fruits",
+    "subcategory": "General"
+  },
+  {
+    "name": "Bread rolls",
+    "category": "🍎 Fruits",
+    "subcategory": "General"
+  },
+  {
+    "name": "Flatbread",
+    "category": "🍎 Fruits",
+    "subcategory": "General"
+  },
+  {
+    "name": "Sourdough bread",
+    "category": "🍎 Fruits",
+    "subcategory": "General"
+  },
+  {
+    "name": "Muffins",
+    "category": "🍎 Fruits",
+    "subcategory": "General"
+  },
+  {
+    "name": "Doughnuts",
+    "category": "🍎 Fruits",
+    "subcategory": "General"
+  },
+  {
+    "name": "Cupcakes",
+    "category": "🍎 Fruits",
+    "subcategory": "General"
+  },
+  {
+    "name": "Cookies",
+    "category": "🍎 Fruits",
+    "subcategory": "General"
+  },
+  {
+    "name": "Biscotti",
+    "category": "🍎 Fruits",
+    "subcategory": "General"
+  },
+  {
+    "name": "🥛 Dairy & Alternatives",
+    "category": "🍎 Fruits",
+    "subcategory": "General"
+  },
+  {
+    "name": "Fresh milk",
+    "category": "🍎 Fruits",
+    "subcategory": "General"
+  },
+  {
+    "name": "Skimmed milk",
+    "category": "🍎 Fruits",
+    "subcategory": "General"
+  },
+  {
+    "name": "UHT milk",
+    "category": "🍎 Fruits",
+    "subcategory": "General"
+  },
+  {
+    "name": "Yogurt plain",
+    "category": "🍎 Fruits",
+    "subcategory": "General"
+  },
+  {
+    "name": "Yogurt flavored",
+    "category": "🍎 Fruits",
+    "subcategory": "General"
+  },
+  {
+    "name": "Butter salted",
+    "category": "🍎 Fruits",
+    "subcategory": "General"
+  },
+  {
+    "name": "Butter unsalted",
+    "category": "🍎 Fruits",
+    "subcategory": "General"
+  },
+  {
+    "name": "Cream cheese",
+    "category": "🍎 Fruits",
+    "subcategory": "General"
+  },
+  {
+    "name": "Hard cheese (cheddar",
+    "category": "🍎 Fruits",
+    "subcategory": "General"
+  },
+  {
+    "name": "parmesan)",
+    "category": "🍎 Fruits",
+    "subcategory": "General"
+  },
+  {
+    "name": "Soft cheese (brie",
+    "category": "🍎 Fruits",
+    "subcategory": "General"
+  },
+  {
+    "name": "camembert)",
+    "category": "🍎 Fruits",
+    "subcategory": "General"
+  },
+  {
+    "name": "Cottage cheese",
+    "category": "🍎 Fruits",
+    "subcategory": "General"
+  },
+  {
+    "name": "Sour cream",
+    "category": "🍎 Fruits",
+    "subcategory": "General"
+  },
+  {
+    "name": "Whipping cream",
+    "category": "🍎 Fruits",
+    "subcategory": "General"
+  },
+  {
+    "name": "Ice cream",
+    "category": "🍎 Fruits",
+    "subcategory": "General"
+  },
+  {
+    "name": "Plant milk (soy",
+    "category": "🍎 Fruits",
+    "subcategory": "General"
+  },
+  {
+    "name": "almond",
+    "category": "🍎 Fruits",
+    "subcategory": "General"
+  },
+  {
+    "name": "oat",
+    "category": "🍎 Fruits",
+    "subcategory": "General"
+  },
+  {
+    "name": "coconut",
+    "category": "🍎 Fruits",
+    "subcategory": "General"
+  },
+  {
+    "name": "rice)",
+    "category": "🍎 Fruits",
+    "subcategory": "General"
+  },
+  {
+    "name": "Vegan cheese",
+    "category": "🍎 Fruits",
+    "subcategory": "General"
+  },
+  {
+    "name": "Ghee",
+    "category": "🍎 Fruits",
+    "subcategory": "General"
+  },
+  {
+    "name": "White rice",
+    "category": "🍎 Fruits",
+    "subcategory": "🍚 Grains & Staples"
+  },
+  {
+    "name": "Basmati rice",
+    "category": "🍎 Fruits",
+    "subcategory": "🍚 Grains & Staples"
+  },
+  {
+    "name": "Jasmine rice",
+    "category": "🍎 Fruits",
+    "subcategory": "🍚 Grains & Staples"
+  },
+  {
+    "name": "Brown rice",
+    "category": "🍎 Fruits",
+    "subcategory": "🍚 Grains & Staples"
+  },
+  {
+    "name": "Quinoa",
+    "category": "🍎 Fruits",
+    "subcategory": "🍚 Grains & Staples"
+  },
+  {
+    "name": "Couscous",
+    "category": "🍎 Fruits",
+    "subcategory": "🍚 Grains & Staples"
+  },
+  {
+    "name": "Bulgur",
+    "category": "🍎 Fruits",
+    "subcategory": "🍚 Grains & Staples"
+  },
+  {
+    "name": "Lentils red",
+    "category": "🍎 Fruits",
+    "subcategory": "🍚 Grains & Staples"
+  },
+  {
+    "name": "Lentils green",
+    "category": "🍎 Fruits",
+    "subcategory": "🍚 Grains & Staples"
+  },
+  {
+    "name": "Chickpeas",
+    "category": "🍎 Fruits",
+    "subcategory": "🍚 Grains & Staples"
+  },
+  {
+    "name": "Black beans",
+    "category": "🍎 Fruits",
+    "subcategory": "🍚 Grains & Staples"
+  },
+  {
+    "name": "Kidney beans",
+    "category": "🍎 Fruits",
+    "subcategory": "🍚 Grains & Staples"
+  },
+  {
+    "name": "Pinto beans",
+    "category": "🍎 Fruits",
+    "subcategory": "🍚 Grains & Staples"
+  },
+  {
+    "name": "Flour all-purpose",
+    "category": "🍎 Fruits",
+    "subcategory": "🍚 Grains & Staples"
+  },
+  {
+    "name": "Whole wheat flour",
+    "category": "🍎 Fruits",
+    "subcategory": "🍚 Grains & Staples"
+  },
+  {
+    "name": "Cornmeal",
+    "category": "🍎 Fruits",
+    "subcategory": "🍚 Grains & Staples"
+  },
+  {
+    "name": "Sugar white",
+    "category": "🍎 Fruits",
+    "subcategory": "🍚 Grains & Staples"
+  },
+  {
+    "name": "Sugar brown",
+    "category": "🍎 Fruits",
+    "subcategory": "🍚 Grains & Staples"
+  },
+  {
+    "name": "Salt",
+    "category": "🍎 Fruits",
+    "subcategory": "🍚 Grains & Staples"
+  },
+  {
+    "name": "Baking powder",
+    "category": "🍎 Fruits",
+    "subcategory": "🍚 Grains & Staples"
+  },
+  {
+    "name": "Yeast",
+    "category": "🍎 Fruits",
+    "subcategory": "🍚 Grains & Staples"
+  },
+  {
+    "name": "Pasta spaghetti",
+    "category": "🍎 Fruits",
+    "subcategory": "🍚 Grains & Staples"
+  },
+  {
+    "name": "Pasta penne",
+    "category": "🍎 Fruits",
+    "subcategory": "🍚 Grains & Staples"
+  },
+  {
+    "name": "Pasta fusilli",
+    "category": "🍎 Fruits",
+    "subcategory": "🍚 Grains & Staples"
+  },
+  {
+    "name": "Noodles",
+    "category": "🍎 Fruits",
+    "subcategory": "🍚 Grains & Staples"
+  },
+  {
+    "name": "Oats",
+    "category": "🍎 Fruits",
+    "subcategory": "🍚 Grains & Staples"
+  },
+  {
+    "name": "Breakfast cereal",
+    "category": "🍎 Fruits",
+    "subcategory": "🍚 Grains & Staples"
+  },
+  {
+    "name": "Granola",
+    "category": "🍎 Fruits",
+    "subcategory": "🍚 Grains & Staples"
+  },
+  {
+    "name": "Potato chips",
+    "category": "🍎 Fruits",
+    "subcategory": "🍫 Snacks & Confectionery"
+  },
+  {
+    "name": "Corn chips",
+    "category": "🍎 Fruits",
+    "subcategory": "🍫 Snacks & Confectionery"
+  },
+  {
+    "name": "Popcorn",
+    "category": "🍎 Fruits",
+    "subcategory": "🍫 Snacks & Confectionery"
+  },
+  {
+    "name": "Pretzels",
+    "category": "🍎 Fruits",
+    "subcategory": "🍫 Snacks & Confectionery"
+  },
+  {
+    "name": "Nuts (almonds",
+    "category": "🍎 Fruits",
+    "subcategory": "🍫 Snacks & Confectionery"
+  },
+  {
+    "name": "cashews",
+    "category": "🍎 Fruits",
+    "subcategory": "🍫 Snacks & Confectionery"
+  },
+  {
+    "name": "peanuts",
+    "category": "🍎 Fruits",
+    "subcategory": "🍫 Snacks & Confectionery"
+  },
+  {
+    "name": "pistachios",
+    "category": "🍎 Fruits",
+    "subcategory": "🍫 Snacks & Confectionery"
+  },
+  {
+    "name": "walnuts)",
+    "category": "🍎 Fruits",
+    "subcategory": "🍫 Snacks & Confectionery"
+  },
+  {
+    "name": "Trail mix",
+    "category": "🍎 Fruits",
+    "subcategory": "🍫 Snacks & Confectionery"
+  },
+  {
+    "name": "Chocolate bars",
+    "category": "🍎 Fruits",
+    "subcategory": "🍫 Snacks & Confectionery"
+  },
+  {
+    "name": "Chocolate spread",
+    "category": "🍎 Fruits",
+    "subcategory": "🍫 Snacks & Confectionery"
+  },
+  {
+    "name": "Candy bars",
+    "category": "🍎 Fruits",
+    "subcategory": "🍫 Snacks & Confectionery"
+  },
+  {
+    "name": "Gummy bears",
+    "category": "🍎 Fruits",
+    "subcategory": "🍫 Snacks & Confectionery"
+  },
+  {
+    "name": "Hard candies",
+    "category": "🍎 Fruits",
+    "subcategory": "🍫 Snacks & Confectionery"
+  },
+  {
+    "name": "Biscuits",
+    "category": "🍎 Fruits",
+    "subcategory": "🍫 Snacks & Confectionery"
+  },
+  {
+    "name": "Wafers",
+    "category": "🍎 Fruits",
+    "subcategory": "🍫 Snacks & Confectionery"
+  },
+  {
+    "name": "Energy bars",
+    "category": "🍎 Fruits",
+    "subcategory": "🍫 Snacks & Confectionery"
+  },
+  {
+    "name": "Protein bars",
+    "category": "🍎 Fruits",
+    "subcategory": "🍫 Snacks & Confectionery"
+  },
+  {
+    "name": "Rice cakes",
+    "category": "🍎 Fruits",
+    "subcategory": "🍫 Snacks & Confectionery"
+  },
+  {
+    "name": "Crackers",
+    "category": "🍎 Fruits",
+    "subcategory": "🍫 Snacks & Confectionery"
+  },
+  {
+    "name": "🥤 Beverages",
+    "category": "🍎 Fruits",
+    "subcategory": "🍫 Snacks & Confectionery"
+  },
+  {
+    "name": "Bottled water",
+    "category": "🍎 Fruits",
+    "subcategory": "🍫 Snacks & Confectionery"
+  },
+  {
+    "name": "Sparkling water",
+    "category": "🍎 Fruits",
+    "subcategory": "🍫 Snacks & Confectionery"
+  },
+  {
+    "name": "Soda cola",
+    "category": "🍎 Fruits",
+    "subcategory": "🍫 Snacks & Confectionery"
+  },
+  {
+    "name": "Soda lemon-lime",
+    "category": "🍎 Fruits",
+    "subcategory": "🍫 Snacks & Confectionery"
+  },
+  {
+    "name": "Soda orange",
+    "category": "🍎 Fruits",
+    "subcategory": "🍫 Snacks & Confectionery"
+  },
+  {
+    "name": "Energy drinks",
+    "category": "🍎 Fruits",
+    "subcategory": "🍫 Snacks & Confectionery"
+  },
+  {
+    "name": "Sports drinks",
+    "category": "🍎 Fruits",
+    "subcategory": "🍫 Snacks & Confectionery"
+  },
+  {
+    "name": "Juice apple",
+    "category": "🍎 Fruits",
+    "subcategory": "🍫 Snacks & Confectionery"
+  },
+  {
+    "name": "Juice orange",
+    "category": "🍎 Fruits",
+    "subcategory": "🍫 Snacks & Confectionery"
+  },
+  {
+    "name": "Juice mixed fruit",
+    "category": "🍎 Fruits",
+    "subcategory": "🍫 Snacks & Confectionery"
+  },
+  {
+    "name": "Iced tea",
+    "category": "🍎 Fruits",
+    "subcategory": "🍫 Snacks & Confectionery"
+  },
+  {
+    "name": "Green tea",
+    "category": "🍎 Fruits",
+    "subcategory": "🍫 Snacks & Confectionery"
+  },
+  {
+    "name": "Black tea",
+    "category": "🍎 Fruits",
+    "subcategory": "🍫 Snacks & Confectionery"
+  },
+  {
+    "name": "Herbal tea",
+    "category": "🍎 Fruits",
+    "subcategory": "🍫 Snacks & Confectionery"
+  },
+  {
+    "name": "Coffee beans",
+    "category": "🍎 Fruits",
+    "subcategory": "🍫 Snacks & Confectionery"
+  },
+  {
+    "name": "Ground coffee",
+    "category": "🍎 Fruits",
+    "subcategory": "🍫 Snacks & Confectionery"
+  },
+  {
+    "name": "Instant coffee",
+    "category": "🍎 Fruits",
+    "subcategory": "🍫 Snacks & Confectionery"
+  },
+  {
+    "name": "Hot chocolate",
+    "category": "🍎 Fruits",
+    "subcategory": "🍫 Snacks & Confectionery"
+  },
+  {
+    "name": "Milkshake",
+    "category": "🍎 Fruits",
+    "subcategory": "🍫 Snacks & Confectionery"
+  },
+  {
+    "name": "Coconut water",
+    "category": "🍎 Fruits",
+    "subcategory": "🍫 Snacks & Confectionery"
+  },
+  {
+    "name": "🧼 Cleaning & Hygiene",
+    "category": "🍎 Fruits",
+    "subcategory": "🍫 Snacks & Confectionery"
+  },
+  {
+    "name": "🧴 Household Cleaners",
+    "category": "🍎 Fruits",
+    "subcategory": "🍫 Snacks & Confectionery"
+  },
+  {
+    "name": "Multi-purpose cleaner",
+    "category": "🍎 Fruits",
+    "subcategory": "🍫 Snacks & Confectionery"
+  },
+  {
+    "name": "Floor cleaner",
+    "category": "🍎 Fruits",
+    "subcategory": "🍫 Snacks & Confectionery"
+  },
+  {
+    "name": "Glass cleaner",
+    "category": "🍎 Fruits",
+    "subcategory": "🍫 Snacks & Confectionery"
+  },
+  {
+    "name": "Kitchen spray",
+    "category": "🍎 Fruits",
+    "subcategory": "🍫 Snacks & Confectionery"
+  },
+  {
+    "name": "Bathroom cleaner",
+    "category": "🍎 Fruits",
+    "subcategory": "🍫 Snacks & Confectionery"
+  },
+  {
+    "name": "Toilet cleaner",
+    "category": "🍎 Fruits",
+    "subcategory": "🍫 Snacks & Confectionery"
+  },
+  {
+    "name": "Oven cleaner",
+    "category": "🍎 Fruits",
+    "subcategory": "🍫 Snacks & Confectionery"
+  },
+  {
+    "name": "Carpet cleaner",
+    "category": "🍎 Fruits",
+    "subcategory": "🍫 Snacks & Confectionery"
+  },
+  {
+    "name": "Wood polish",
+    "category": "🍎 Fruits",
+    "subcategory": "🍫 Snacks & Confectionery"
+  },
+  {
+    "name": "Stainless steel spray",
+    "category": "🍎 Fruits",
+    "subcategory": "🍫 Snacks & Confectionery"
+  },
+  {
+    "name": "Bleach",
+    "category": "🍎 Fruits",
+    "subcategory": "🍫 Snacks & Confectionery"
+  },
+  {
+    "name": "Vinegar cleaner",
+    "category": "🍎 Fruits",
+    "subcategory": "🍫 Snacks & Confectionery"
+  },
+  {
+    "name": "🧻 Paper & Disposables",
+    "category": "🍎 Fruits",
+    "subcategory": "🍫 Snacks & Confectionery"
+  },
+  {
+    "name": "Toilet paper",
+    "category": "🍎 Fruits",
+    "subcategory": "🍫 Snacks & Confectionery"
+  },
+  {
+    "name": "Kitchen towels",
+    "category": "🍎 Fruits",
+    "subcategory": "🍫 Snacks & Confectionery"
+  },
+  {
+    "name": "Tissues box",
+    "category": "🍎 Fruits",
+    "subcategory": "🍫 Snacks & Confectionery"
+  },
+  {
+    "name": "Tissues pocket",
+    "category": "🍎 Fruits",
+    "subcategory": "🍫 Snacks & Confectionery"
+  },
+  {
+    "name": "Wet wipes",
+    "category": "🍎 Fruits",
+    "subcategory": "🍫 Snacks & Confectionery"
+  },
+  {
+    "name": "Napkins",
+    "category": "🍎 Fruits",
+    "subcategory": "🍫 Snacks & Confectionery"
+  },
+  {
+    "name": "Trash bags small",
+    "category": "🍎 Fruits",
+    "subcategory": "🍫 Snacks & Confectionery"
+  },
+  {
+    "name": "Trash bags large",
+    "category": "🍎 Fruits",
+    "subcategory": "🍫 Snacks & Confectionery"
+  },
+  {
+    "name": "Aluminum foil",
+    "category": "🍎 Fruits",
+    "subcategory": "🍫 Snacks & Confectionery"
+  },
+  {
+    "name": "Cling film",
+    "category": "🍎 Fruits",
+    "subcategory": "🍫 Snacks & Confectionery"
+  },
+  {
+    "name": "Baking paper",
+    "category": "🍎 Fruits",
+    "subcategory": "🍫 Snacks & Confectionery"
+  },
+  {
+    "name": "Disposable plates",
+    "category": "🍎 Fruits",
+    "subcategory": "🍫 Snacks & Confectionery"
+  },
+  {
+    "name": "Disposable cups",
+    "category": "🍎 Fruits",
+    "subcategory": "🍫 Snacks & Confectionery"
+  },
+  {
+    "name": "Disposable cutlery",
+    "category": "🍎 Fruits",
+    "subcategory": "🍫 Snacks & Confectionery"
+  },
+  {
+    "name": "Disposable gloves",
+    "category": "🍎 Fruits",
+    "subcategory": "🍫 Snacks & Confectionery"
+  },
+  {
+    "name": "🧽 Laundry Care",
+    "category": "🍎 Fruits",
+    "subcategory": "🍫 Snacks & Confectionery"
+  },
+  {
+    "name": "Laundry detergent powder",
+    "category": "🍎 Fruits",
+    "subcategory": "🍫 Snacks & Confectionery"
+  },
+  {
+    "name": "Laundry detergent liquid",
+    "category": "🍎 Fruits",
+    "subcategory": "🍫 Snacks & Confectionery"
+  },
+  {
+    "name": "Fabric softener",
+    "category": "🍎 Fruits",
+    "subcategory": "🍫 Snacks & Confectionery"
+  },
+  {
+    "name": "Stain remover spray",
+    "category": "🍎 Fruits",
+    "subcategory": "🍫 Snacks & Confectionery"
+  },
+  {
+    "name": "Bleach alternative",
+    "category": "🍎 Fruits",
+    "subcategory": "🍫 Snacks & Confectionery"
+  },
+  {
+    "name": "Laundry pods",
+    "category": "🍎 Fruits",
+    "subcategory": "🍫 Snacks & Confectionery"
+  },
+  {
+    "name": "Wool wash",
+    "category": "🍎 Fruits",
+    "subcategory": "🍫 Snacks & Confectionery"
+  },
+  {
+    "name": "Dryer sheets",
+    "category": "🍎 Fruits",
+    "subcategory": "🍫 Snacks & Confectionery"
+  },
+  {
+    "name": "Laundry basket",
+    "category": "🍎 Fruits",
+    "subcategory": "🍫 Snacks & Confectionery"
+  },
+  {
+    "name": "Clothespins",
+    "category": "🍎 Fruits",
+    "subcategory": "🍫 Snacks & Confectionery"
+  },
+  {
+    "name": "Hand soap",
+    "category": "🍎 Fruits",
+    "subcategory": "🚿 Personal Hygiene"
+  },
+  {
+    "name": "Body wash",
+    "category": "🍎 Fruits",
+    "subcategory": "🚿 Personal Hygiene"
+  },
+  {
+    "name": "Shampoo",
+    "category": "🍎 Fruits",
+    "subcategory": "🚿 Personal Hygiene"
+  },
+  {
+    "name": "Conditioner",
+    "category": "🍎 Fruits",
+    "subcategory": "🚿 Personal Hygiene"
+  },
+  {
+    "name": "Shaving cream",
+    "category": "🍎 Fruits",
+    "subcategory": "🚿 Personal Hygiene"
+  },
+  {
+    "name": "Razors",
+    "category": "🍎 Fruits",
+    "subcategory": "🚿 Personal Hygiene"
+  },
+  {
+    "name": "Deodorant roll-on",
+    "category": "🍎 Fruits",
+    "subcategory": "🚿 Personal Hygiene"
+  },
+  {
+    "name": "Deodorant spray",
+    "category": "🍎 Fruits",
+    "subcategory": "🚿 Personal Hygiene"
+  },
+  {
+    "name": "Toothpaste",
+    "category": "🍎 Fruits",
+    "subcategory": "🚿 Personal Hygiene"
+  },
+  {
+    "name": "Toothbrush manual",
+    "category": "🍎 Fruits",
+    "subcategory": "🚿 Personal Hygiene"
+  },
+  {
+    "name": "Toothbrush electric",
+    "category": "🍎 Fruits",
+    "subcategory": "🚿 Personal Hygiene"
+  },
+  {
+    "name": "Mouthwash",
+    "category": "🍎 Fruits",
+    "subcategory": "🚿 Personal Hygiene"
+  },
+  {
+    "name": "Dental floss",
+    "category": "🍎 Fruits",
+    "subcategory": "🚿 Personal Hygiene"
+  },
+  {
+    "name": "Hair gel",
+    "category": "🍎 Fruits",
+    "subcategory": "🚿 Personal Hygiene"
+  },
+  {
+    "name": "Hair wax",
+    "category": "🍎 Fruits",
+    "subcategory": "🚿 Personal Hygiene"
+  },
+  {
+    "name": "Perfume",
+    "category": "🍎 Fruits",
+    "subcategory": "🚿 Personal Hygiene"
+  },
+  {
+    "name": "Cologne",
+    "category": "🍎 Fruits",
+    "subcategory": "🚿 Personal Hygiene"
+  },
+  {
+    "name": "Lip balm",
+    "category": "🍎 Fruits",
+    "subcategory": "🚿 Personal Hygiene"
+  },
+  {
+    "name": "Hand cream",
+    "category": "🍎 Fruits",
+    "subcategory": "🚿 Personal Hygiene"
+  },
+  {
+    "name": "Sunscreen",
+    "category": "🍎 Fruits",
+    "subcategory": "🚿 Personal Hygiene"
+  },
+  {
+    "name": "Feminine pads",
+    "category": "🍎 Fruits",
+    "subcategory": "🚿 Personal Hygiene"
+  },
+  {
+    "name": "Tampons",
+    "category": "🍎 Fruits",
+    "subcategory": "🚿 Personal Hygiene"
+  },
+  {
+    "name": "🧯 Disinfectants",
+    "category": "🍎 Fruits",
+    "subcategory": "🚿 Personal Hygiene"
+  },
+  {
+    "name": "Antibacterial wipes",
+    "category": "🍎 Fruits",
+    "subcategory": "🚿 Personal Hygiene"
+  },
+  {
+    "name": "Hand sanitizer",
+    "category": "🍎 Fruits",
+    "subcategory": "🚿 Personal Hygiene"
+  },
+  {
+    "name": "Surface disinfectant spray",
+    "category": "🍎 Fruits",
+    "subcategory": "🚿 Personal Hygiene"
+  },
+  {
+    "name": "Isopropyl alcohol",
+    "category": "🍎 Fruits",
+    "subcategory": "🚿 Personal Hygiene"
+  },
+  {
+    "name": "T-shirts",
+    "category": "👗 Clothing & Grooming",
+    "subcategory": "👕 Casual Wear"
+  },
+  {
+    "name": "Polo shirts",
+    "category": "👗 Clothing & Grooming",
+    "subcategory": "👕 Casual Wear"
+  },
+  {
+    "name": "Hoodies",
+    "category": "👗 Clothing & Grooming",
+    "subcategory": "👕 Casual Wear"
+  },
+  {
+    "name": "Sweatshirts",
+    "category": "👗 Clothing & Grooming",
+    "subcategory": "👕 Casual Wear"
+  },
+  {
+    "name": "Jeans",
+    "category": "👗 Clothing & Grooming",
+    "subcategory": "👕 Casual Wear"
+  },
+  {
+    "name": "Chinos",
+    "category": "👗 Clothing & Grooming",
+    "subcategory": "👕 Casual Wear"
+  },
+  {
+    "name": "Shorts",
+    "category": "👗 Clothing & Grooming",
+    "subcategory": "👕 Casual Wear"
+  },
+  {
+    "name": "Joggers",
+    "category": "👗 Clothing & Grooming",
+    "subcategory": "👕 Casual Wear"
+  },
+  {
+    "name": "Leggings",
+    "category": "👗 Clothing & Grooming",
+    "subcategory": "👕 Casual Wear"
+  },
+  {
+    "name": "Sneakers",
+    "category": "👗 Clothing & Grooming",
+    "subcategory": "👕 Casual Wear"
+  },
+  {
+    "name": "Dress shirts",
+    "category": "👗 Clothing & Grooming",
+    "subcategory": "👔 Formal Wear"
+  },
+  {
+    "name": "Suits",
+    "category": "👗 Clothing & Grooming",
+    "subcategory": "👔 Formal Wear"
+  },
+  {
+    "name": "Blazers",
+    "category": "👗 Clothing & Grooming",
+    "subcategory": "👔 Formal Wear"
+  },
+  {
+    "name": "Dress trousers",
+    "category": "👗 Clothing & Grooming",
+    "subcategory": "👔 Formal Wear"
+  },
+  {
+    "name": "Ties",
+    "category": "👗 Clothing & Grooming",
+    "subcategory": "👔 Formal Wear"
+  },
+  {
+    "name": "Bow ties",
+    "category": "👗 Clothing & Grooming",
+    "subcategory": "👔 Formal Wear"
+  },
+  {
+    "name": "Dress shoes",
+    "category": "👗 Clothing & Grooming",
+    "subcategory": "👔 Formal Wear"
+  },
+  {
+    "name": "Heels",
+    "category": "👗 Clothing & Grooming",
+    "subcategory": "👔 Formal Wear"
+  },
+  {
+    "name": "🧥 Outerwear",
+    "category": "👗 Clothing & Grooming",
+    "subcategory": "👔 Formal Wear"
+  },
+  {
+    "name": "Jackets",
+    "category": "👗 Clothing & Grooming",
+    "subcategory": "👔 Formal Wear"
+  },
+  {
+    "name": "Coats",
+    "category": "👗 Clothing & Grooming",
+    "subcategory": "👔 Formal Wear"
+  },
+  {
+    "name": "Raincoats",
+    "category": "👗 Clothing & Grooming",
+    "subcategory": "👔 Formal Wear"
+  },
+  {
+    "name": "Windbreakers",
+    "category": "👗 Clothing & Grooming",
+    "subcategory": "👔 Formal Wear"
+  },
+  {
+    "name": "Parka",
+    "category": "👗 Clothing & Grooming",
+    "subcategory": "👔 Formal Wear"
+  },
+  {
+    "name": "Cardigan",
+    "category": "👗 Clothing & Grooming",
+    "subcategory": "👔 Formal Wear"
+  },
+  {
+    "name": "🧦 Undergarments",
+    "category": "👗 Clothing & Grooming",
+    "subcategory": "👔 Formal Wear"
+  },
+  {
+    "name": "Socks ankle",
+    "category": "👗 Clothing & Grooming",
+    "subcategory": "👔 Formal Wear"
+  },
+  {
+    "name": "Socks long",
+    "category": "👗 Clothing & Grooming",
+    "subcategory": "👔 Formal Wear"
+  },
+  {
+    "name": "Underwear boxers",
+    "category": "👗 Clothing & Grooming",
+    "subcategory": "👔 Formal Wear"
+  },
+  {
+    "name": "Underwear briefs",
+    "category": "👗 Clothing & Grooming",
+    "subcategory": "👔 Formal Wear"
+  },
+  {
+    "name": "Bras",
+    "category": "👗 Clothing & Grooming",
+    "subcategory": "👔 Formal Wear"
+  },
+  {
+    "name": "Sports bras",
+    "category": "👗 Clothing & Grooming",
+    "subcategory": "👔 Formal Wear"
+  },
+  {
+    "name": "Undershirts",
+    "category": "👗 Clothing & Grooming",
+    "subcategory": "👔 Formal Wear"
+  },
+  {
+    "name": "Pajamas",
+    "category": "👗 Clothing & Grooming",
+    "subcategory": "👔 Formal Wear"
+  },
+  {
+    "name": "Loungewear",
+    "category": "👗 Clothing & Grooming",
+    "subcategory": "👔 Formal Wear"
+  },
+  {
+    "name": "Foundation",
+    "category": "👗 Clothing & Grooming",
+    "subcategory": "💄 Cosmetics & Grooming"
+  },
+  {
+    "name": "Concealer",
+    "category": "👗 Clothing & Grooming",
+    "subcategory": "💄 Cosmetics & Grooming"
+  },
+  {
+    "name": "Lipstick",
+    "category": "👗 Clothing & Grooming",
+    "subcategory": "💄 Cosmetics & Grooming"
+  },
+  {
+    "name": "Lip gloss",
+    "category": "👗 Clothing & Grooming",
+    "subcategory": "💄 Cosmetics & Grooming"
+  },
+  {
+    "name": "Mascara",
+    "category": "👗 Clothing & Grooming",
+    "subcategory": "💄 Cosmetics & Grooming"
+  },
+  {
+    "name": "Eyeliner",
+    "category": "👗 Clothing & Grooming",
+    "subcategory": "💄 Cosmetics & Grooming"
+  },
+  {
+    "name": "Eyeshadow palette",
+    "category": "👗 Clothing & Grooming",
+    "subcategory": "💄 Cosmetics & Grooming"
+  },
+  {
+    "name": "Blush",
+    "category": "👗 Clothing & Grooming",
+    "subcategory": "💄 Cosmetics & Grooming"
+  },
+  {
+    "name": "Bronzer",
+    "category": "👗 Clothing & Grooming",
+    "subcategory": "💄 Cosmetics & Grooming"
+  },
+  {
+    "name": "Beard trimmer",
+    "category": "👗 Clothing & Grooming",
+    "subcategory": "💄 Cosmetics & Grooming"
+  },
+  {
+    "name": "Electric shaver",
+    "category": "👗 Clothing & Grooming",
+    "subcategory": "💄 Cosmetics & Grooming"
+  },
+  {
+    "name": "Hairdryer",
+    "category": "👗 Clothing & Grooming",
+    "subcategory": "💄 Cosmetics & Grooming"
+  },
+  {
+    "name": "Hair straightener",
+    "category": "👗 Clothing & Grooming",
+    "subcategory": "💄 Cosmetics & Grooming"
+  },
+  {
+    "name": "Nail polish",
+    "category": "👗 Clothing & Grooming",
+    "subcategory": "💄 Cosmetics & Grooming"
+  },
+  {
+    "name": "Nail clippers",
+    "category": "👗 Clothing & Grooming",
+    "subcategory": "💄 Cosmetics & Grooming"
+  },
+  {
+    "name": "Face cream",
+    "category": "👗 Clothing & Grooming",
+    "subcategory": "💄 Cosmetics & Grooming"
+  },
+  {
+    "name": "Toner",
+    "category": "👗 Clothing & Grooming",
+    "subcategory": "💄 Cosmetics & Grooming"
+  },
+  {
+    "name": "Serum",
+    "category": "👗 Clothing & Grooming",
+    "subcategory": "💄 Cosmetics & Grooming"
+  },
+  {
+    "name": "Belts",
+    "category": "👗 Clothing & Grooming",
+    "subcategory": "🕶️ Accessories"
+  },
+  {
+    "name": "Hats",
+    "category": "👗 Clothing & Grooming",
+    "subcategory": "🕶️ Accessories"
+  },
+  {
+    "name": "Caps",
+    "category": "👗 Clothing & Grooming",
+    "subcategory": "🕶️ Accessories"
+  },
+  {
+    "name": "Scarves",
+    "category": "👗 Clothing & Grooming",
+    "subcategory": "🕶️ Accessories"
+  },
+  {
+    "name": "Sunglasses",
+    "category": "👗 Clothing & Grooming",
+    "subcategory": "🕶️ Accessories"
+  },
+  {
+    "name": "Watches",
+    "category": "👗 Clothing & Grooming",
+    "subcategory": "🕶️ Accessories"
+  },
+  {
+    "name": "Wallets",
+    "category": "👗 Clothing & Grooming",
+    "subcategory": "🕶️ Accessories"
+  },
+  {
+    "name": "Handbags",
+    "category": "👗 Clothing & Grooming",
+    "subcategory": "🕶️ Accessories"
+  },
+  {
+    "name": "Backpacks",
+    "category": "👗 Clothing & Grooming",
+    "subcategory": "🕶️ Accessories"
+  },
+  {
+    "name": "Engine oil",
+    "category": "🚗 Cars, Vans & Trucks",
+    "subcategory": "🛠️ Maintenance"
+  },
+  {
+    "name": "Coolant",
+    "category": "🚗 Cars, Vans & Trucks",
+    "subcategory": "🛠️ Maintenance"
+  },
+  {
+    "name": "Brake fluid",
+    "category": "🚗 Cars, Vans & Trucks",
+    "subcategory": "🛠️ Maintenance"
+  },
+  {
+    "name": "Power steering fluid",
+    "category": "🚗 Cars, Vans & Trucks",
+    "subcategory": "🛠️ Maintenance"
+  },
+  {
+    "name": "Transmission fluid",
+    "category": "🚗 Cars, Vans & Trucks",
+    "subcategory": "🛠️ Maintenance"
+  },
+  {
+    "name": "Windshield washer fluid",
+    "category": "🚗 Cars, Vans & Trucks",
+    "subcategory": "🛠️ Maintenance"
+  },
+  {
+    "name": "WD-40",
+    "category": "🚗 Cars, Vans & Trucks",
+    "subcategory": "🛠️ Maintenance"
+  },
+  {
+    "name": "Grease",
+    "category": "🚗 Cars, Vans & Trucks",
+    "subcategory": "🛠️ Maintenance"
+  },
+  {
+    "name": "Tires",
+    "category": "🚗 Cars, Vans & Trucks",
+    "subcategory": "🔧 Parts & Accessories"
+  },
+  {
+    "name": "Rims",
+    "category": "🚗 Cars, Vans & Trucks",
+    "subcategory": "🔧 Parts & Accessories"
+  },
+  {
+    "name": "Car battery",
+    "category": "🚗 Cars, Vans & Trucks",
+    "subcategory": "🔧 Parts & Accessories"
+  },
+  {
+    "name": "Spark plugs",
+    "category": "🚗 Cars, Vans & Trucks",
+    "subcategory": "🔧 Parts & Accessories"
+  },
+  {
+    "name": "Oil filter",
+    "category": "🚗 Cars, Vans & Trucks",
+    "subcategory": "🔧 Parts & Accessories"
+  },
+  {
+    "name": "Air filter",
+    "category": "🚗 Cars, Vans & Trucks",
+    "subcategory": "🔧 Parts & Accessories"
+  },
+  {
+    "name": "Cabin filter",
+    "category": "🚗 Cars, Vans & Trucks",
+    "subcategory": "🔧 Parts & Accessories"
+  },
+  {
+    "name": "Brake pads",
+    "category": "🚗 Cars, Vans & Trucks",
+    "subcategory": "🔧 Parts & Accessories"
+  },
+  {
+    "name": "Wiper blades",
+    "category": "🚗 Cars, Vans & Trucks",
+    "subcategory": "🔧 Parts & Accessories"
+  },
+  {
+    "name": "Headlights",
+    "category": "🚗 Cars, Vans & Trucks",
+    "subcategory": "🔧 Parts & Accessories"
+  },
+  {
+    "name": "Tail lights",
+    "category": "🚗 Cars, Vans & Trucks",
+    "subcategory": "🔧 Parts & Accessories"
+  },
+  {
+    "name": "Car jack",
+    "category": "🚗 Cars, Vans & Trucks",
+    "subcategory": "🔧 Parts & Accessories"
+  },
+  {
+    "name": "Jumper cables",
+    "category": "🚗 Cars, Vans & Trucks",
+    "subcategory": "🔧 Parts & Accessories"
+  },
+  {
+    "name": "🪑 Interior",
+    "category": "🚗 Cars, Vans & Trucks",
+    "subcategory": "🔧 Parts & Accessories"
+  },
+  {
+    "name": "Seat covers",
+    "category": "🚗 Cars, Vans & Trucks",
+    "subcategory": "🔧 Parts & Accessories"
+  },
+  {
+    "name": "Floor mats",
+    "category": "🚗 Cars, Vans & Trucks",
+    "subcategory": "🔧 Parts & Accessories"
+  },
+  {
+    "name": "Sun shades",
+    "category": "🚗 Cars, Vans & Trucks",
+    "subcategory": "🔧 Parts & Accessories"
+  },
+  {
+    "name": "Car vacuum",
+    "category": "🚗 Cars, Vans & Trucks",
+    "subcategory": "🔧 Parts & Accessories"
+  },
+  {
+    "name": "Phone holder",
+    "category": "🚗 Cars, Vans & Trucks",
+    "subcategory": "🔧 Parts & Accessories"
+  },
+  {
+    "name": "Cup holder",
+    "category": "🚗 Cars, Vans & Trucks",
+    "subcategory": "🔧 Parts & Accessories"
+  },
+  {
+    "name": "Air freshener",
+    "category": "🚗 Cars, Vans & Trucks",
+    "subcategory": "🔧 Parts & Accessories"
+  },
+  {
+    "name": "Steering wheel cover",
+    "category": "🚗 Cars, Vans & Trucks",
+    "subcategory": "🔧 Parts & Accessories"
+  },
+  {
+    "name": "Dash cam",
+    "category": "🚗 Cars, Vans & Trucks",
+    "subcategory": "📻 Electronics"
+  },
+  {
+    "name": "GPS unit",
+    "category": "🚗 Cars, Vans & Trucks",
+    "subcategory": "📻 Electronics"
+  },
+  {
+    "name": "Car stereo",
+    "category": "🚗 Cars, Vans & Trucks",
+    "subcategory": "📻 Electronics"
+  },
+  {
+    "name": "Amplifier",
+    "category": "🚗 Cars, Vans & Trucks",
+    "subcategory": "📻 Electronics"
+  },
+  {
+    "name": "Subwoofer",
+    "category": "🚗 Cars, Vans & Trucks",
+    "subcategory": "📻 Electronics"
+  },
+  {
+    "name": "Reverse camera",
+    "category": "🚗 Cars, Vans & Trucks",
+    "subcategory": "📻 Electronics"
+  },
+  {
+    "name": "Parking sensors",
+    "category": "🚗 Cars, Vans & Trucks",
+    "subcategory": "📻 Electronics"
+  },
+  {
+    "name": "OBD scanner",
+    "category": "🚗 Cars, Vans & Trucks",
+    "subcategory": "📻 Electronics"
+  },
+  {
+    "name": "Fuel card",
+    "category": "🚗 Cars, Vans & Trucks",
+    "subcategory": "⛽ Consumables"
+  },
+  {
+    "name": "Car wash kit",
+    "category": "🚗 Cars, Vans & Trucks",
+    "subcategory": "⛽ Consumables"
+  },
+  {
+    "name": "Tire inflator",
+    "category": "🚗 Cars, Vans & Trucks",
+    "subcategory": "⛽ Consumables"
+  },
+  {
+    "name": "Car wax",
+    "category": "🚗 Cars, Vans & Trucks",
+    "subcategory": "⛽ Consumables"
+  },
+  {
+    "name": "Microfiber cloths",
+    "category": "🚗 Cars, Vans & Trucks",
+    "subcategory": "⛽ Consumables"
+  },
+  {
+    "name": "Car shampoo",
+    "category": "🚗 Cars, Vans & Trucks",
+    "subcategory": "⛽ Consumables"
+  },
+  {
+    "name": "Smartphones",
+    "category": "📱 Electronics & Gadgets",
+    "subcategory": "General"
+  },
+  {
+    "name": "Feature phones",
+    "category": "📱 Electronics & Gadgets",
+    "subcategory": "General"
+  },
+  {
+    "name": "Tablets",
+    "category": "📱 Electronics & Gadgets",
+    "subcategory": "General"
+  },
+  {
+    "name": "Laptops",
+    "category": "📱 Electronics & Gadgets",
+    "subcategory": "General"
+  },
+  {
+    "name": "Desktop PCs",
+    "category": "📱 Electronics & Gadgets",
+    "subcategory": "General"
+  },
+  {
+    "name": "Monitors",
+    "category": "📱 Electronics & Gadgets",
+    "subcategory": "General"
+  },
+  {
+    "name": "Keyboards",
+    "category": "📱 Electronics & Gadgets",
+    "subcategory": "General"
+  },
+  {
+    "name": "Mice",
+    "category": "📱 Electronics & Gadgets",
+    "subcategory": "General"
+  },
+  {
+    "name": "External hard drives",
+    "category": "📱 Electronics & Gadgets",
+    "subcategory": "General"
+  },
+  {
+    "name": "SSDs",
+    "category": "📱 Electronics & Gadgets",
+    "subcategory": "General"
+  },
+  {
+    "name": "USB sticks",
+    "category": "📱 Electronics & Gadgets",
+    "subcategory": "General"
+  },
+  {
+    "name": "Power banks",
+    "category": "📱 Electronics & Gadgets",
+    "subcategory": "General"
+  },
+  {
+    "name": "Wireless chargers",
+    "category": "📱 Electronics & Gadgets",
+    "subcategory": "General"
+  },
+  {
+    "name": "Charging cables",
+    "category": "📱 Electronics & Gadgets",
+    "subcategory": "General"
+  },
+  {
+    "name": "Smartwatches",
+    "category": "📱 Electronics & Gadgets",
+    "subcategory": "General"
+  },
+  {
+    "name": "Fitness bands",
+    "category": "📱 Electronics & Gadgets",
+    "subcategory": "General"
+  },
+  {
+    "name": "Bluetooth speakers",
+    "category": "📱 Electronics & Gadgets",
+    "subcategory": "General"
+  },
+  {
+    "name": "Noise-cancelling headphones",
+    "category": "📱 Electronics & Gadgets",
+    "subcategory": "General"
+  },
+  {
+    "name": "Earbuds wired",
+    "category": "📱 Electronics & Gadgets",
+    "subcategory": "General"
+  },
+  {
+    "name": "Earbuds wireless",
+    "category": "📱 Electronics & Gadgets",
+    "subcategory": "General"
+  },
+  {
+    "name": "Microphones",
+    "category": "📱 Electronics & Gadgets",
+    "subcategory": "General"
+  },
+  {
+    "name": "Webcams",
+    "category": "📱 Electronics & Gadgets",
+    "subcategory": "General"
+  },
+  {
+    "name": "Drones",
+    "category": "📱 Electronics & Gadgets",
+    "subcategory": "General"
+  },
+  {
+    "name": "Action cameras",
+    "category": "📱 Electronics & Gadgets",
+    "subcategory": "General"
+  },
+  {
+    "name": "DSLR cameras",
+    "category": "📱 Electronics & Gadgets",
+    "subcategory": "General"
+  },
+  {
+    "name": "Camera lenses",
+    "category": "📱 Electronics & Gadgets",
+    "subcategory": "General"
+  },
+  {
+    "name": "Tripods",
+    "category": "📱 Electronics & Gadgets",
+    "subcategory": "General"
+  },
+  {
+    "name": "E-book readers",
+    "category": "📱 Electronics & Gadgets",
+    "subcategory": "General"
+  },
+  {
+    "name": "Smart home hubs",
+    "category": "📱 Electronics & Gadgets",
+    "subcategory": "General"
+  },
+  {
+    "name": "Smart bulbs",
+    "category": "📱 Electronics & Gadgets",
+    "subcategory": "General"
+  },
+  {
+    "name": "Smart plugs",
+    "category": "📱 Electronics & Gadgets",
+    "subcategory": "General"
+  },
+  {
+    "name": "Security cameras",
+    "category": "📱 Electronics & Gadgets",
+    "subcategory": "General"
+  },
+  {
+    "name": "Routers",
+    "category": "📱 Electronics & Gadgets",
+    "subcategory": "General"
+  },
+  {
+    "name": "Modems",
+    "category": "📱 Electronics & Gadgets",
+    "subcategory": "General"
+  },
+  {
+    "name": "VR headsets",
+    "category": "📱 Electronics & Gadgets",
+    "subcategory": "General"
+  },
+  {
+    "name": "PlayStation console",
+    "category": "🎮 Gaming & Entertainment",
+    "subcategory": "General"
+  },
+  {
+    "name": "Xbox console",
+    "category": "🎮 Gaming & Entertainment",
+    "subcategory": "General"
+  },
+  {
+    "name": "Nintendo Switch",
+    "category": "🎮 Gaming & Entertainment",
+    "subcategory": "General"
+  },
+  {
+    "name": "Gaming PC",
+    "category": "🎮 Gaming & Entertainment",
+    "subcategory": "General"
+  },
+  {
+    "name": "Controllers wired",
+    "category": "🎮 Gaming & Entertainment",
+    "subcategory": "General"
+  },
+  {
+    "name": "Controllers wireless",
+    "category": "🎮 Gaming & Entertainment",
+    "subcategory": "General"
+  },
+  {
+    "name": "Racing wheel",
+    "category": "🎮 Gaming & Entertainment",
+    "subcategory": "General"
+  },
+  {
+    "name": "VR headset",
+    "category": "🎮 Gaming & Entertainment",
+    "subcategory": "General"
+  },
+  {
+    "name": "Gaming chair",
+    "category": "🎮 Gaming & Entertainment",
+    "subcategory": "General"
+  },
+  {
+    "name": "Headset with mic",
+    "category": "🎮 Gaming & Entertainment",
+    "subcategory": "General"
+  },
+  {
+    "name": "Streaming webcam",
+    "category": "🎮 Gaming & Entertainment",
+    "subcategory": "General"
+  },
+  {
+    "name": "Popular games (FIFA",
+    "category": "🎮 Gaming & Entertainment",
+    "subcategory": "General"
+  },
+  {
+    "name": "Call of Duty",
+    "category": "🎮 Gaming & Entertainment",
+    "subcategory": "General"
+  },
+  {
+    "name": "Zelda",
+    "category": "🎮 Gaming & Entertainment",
+    "subcategory": "General"
+  },
+  {
+    "name": "Mario)",
+    "category": "🎮 Gaming & Entertainment",
+    "subcategory": "General"
+  },
+  {
+    "name": "Board games (Monopoly",
+    "category": "🎮 Gaming & Entertainment",
+    "subcategory": "General"
+  },
+  {
+    "name": "Chess",
+    "category": "🎮 Gaming & Entertainment",
+    "subcategory": "General"
+  },
+  {
+    "name": "Scrabble",
+    "category": "🎮 Gaming & Entertainment",
+    "subcategory": "General"
+  },
+  {
+    "name": "Uno",
+    "category": "🎮 Gaming & Entertainment",
+    "subcategory": "General"
+  },
+  {
+    "name": "Jenga",
+    "category": "🎮 Gaming & Entertainment",
+    "subcategory": "General"
+  },
+  {
+    "name": "Risk",
+    "category": "🎮 Gaming & Entertainment",
+    "subcategory": "General"
+  },
+  {
+    "name": "Catan)",
+    "category": "🎮 Gaming & Entertainment",
+    "subcategory": "General"
+  },
+  {
+    "name": "Puzzles",
+    "category": "🎮 Gaming & Entertainment",
+    "subcategory": "General"
+  },
+  {
+    "name": "Card decks",
+    "category": "🎮 Gaming & Entertainment",
+    "subcategory": "General"
+  },
+  {
+    "name": "Lego sets",
+    "category": "🎮 Gaming & Entertainment",
+    "subcategory": "General"
+  },
+  {
+    "name": "Nerf guns",
+    "category": "🎮 Gaming & Entertainment",
+    "subcategory": "General"
+  },
+  {
+    "name": "Sofas",
+    "category": "🏡 Home & Furniture",
+    "subcategory": "General"
+  },
+  {
+    "name": "Armchairs",
+    "category": "🏡 Home & Furniture",
+    "subcategory": "General"
+  },
+  {
+    "name": "Coffee tables",
+    "category": "🏡 Home & Furniture",
+    "subcategory": "General"
+  },
+  {
+    "name": "Side tables",
+    "category": "🏡 Home & Furniture",
+    "subcategory": "General"
+  },
+  {
+    "name": "TV stand",
+    "category": "🏡 Home & Furniture",
+    "subcategory": "General"
+  },
+  {
+    "name": "Bookshelves",
+    "category": "🏡 Home & Furniture",
+    "subcategory": "General"
+  },
+  {
+    "name": "Curtains",
+    "category": "🏡 Home & Furniture",
+    "subcategory": "General"
+  },
+  {
+    "name": "Rugs",
+    "category": "🏡 Home & Furniture",
+    "subcategory": "General"
+  },
+  {
+    "name": "Beds",
+    "category": "🏡 Home & Furniture",
+    "subcategory": "General"
+  },
+  {
+    "name": "Mattresses",
+    "category": "🏡 Home & Furniture",
+    "subcategory": "General"
+  },
+  {
+    "name": "Bed frames",
+    "category": "🏡 Home & Furniture",
+    "subcategory": "General"
+  },
+  {
+    "name": "Pillows",
+    "category": "🏡 Home & Furniture",
+    "subcategory": "General"
+  },
+  {
+    "name": "Duvets",
+    "category": "🏡 Home & Furniture",
+    "subcategory": "General"
+  },
+  {
+    "name": "Wardrobes",
+    "category": "🏡 Home & Furniture",
+    "subcategory": "General"
+  },
+  {
+    "name": "Desks",
+    "category": "🏡 Home & Furniture",
+    "subcategory": "General"
+  },
+  {
+    "name": "Dining tables",
+    "category": "🏡 Home & Furniture",
+    "subcategory": "General"
+  },
+  {
+    "name": "Dining chairs",
+    "category": "🏡 Home & Furniture",
+    "subcategory": "General"
+  },
+  {
+    "name": "Bar stools",
+    "category": "🏡 Home & Furniture",
+    "subcategory": "General"
+  },
+  {
+    "name": "Lamps",
+    "category": "🏡 Home & Furniture",
+    "subcategory": "General"
+  },
+  {
+    "name": "Ceiling lights",
+    "category": "🏡 Home & Furniture",
+    "subcategory": "General"
+  },
+  {
+    "name": "Desk lamps",
+    "category": "🏡 Home & Furniture",
+    "subcategory": "General"
+  },
+  {
+    "name": "Smart bulbs",
+    "category": "🏡 Home & Furniture",
+    "subcategory": "General"
+  },
+  {
+    "name": "Kitchen blender",
+    "category": "🏡 Home & Furniture",
+    "subcategory": "General"
+  },
+  {
+    "name": "Toaster",
+    "category": "🏡 Home & Furniture",
+    "subcategory": "General"
+  },
+  {
+    "name": "Coffee machine",
+    "category": "🏡 Home & Furniture",
+    "subcategory": "General"
+  },
+  {
+    "name": "Microwave",
+    "category": "🏡 Home & Furniture",
+    "subcategory": "General"
+  },
+  {
+    "name": "Rice cooker",
+    "category": "🏡 Home & Furniture",
+    "subcategory": "General"
+  },
+  {
+    "name": "Pots",
+    "category": "🏡 Home & Furniture",
+    "subcategory": "General"
+  },
+  {
+    "name": "Pans",
+    "category": "🏡 Home & Furniture",
+    "subcategory": "General"
+  },
+  {
+    "name": "Cutlery sets",
+    "category": "🏡 Home & Furniture",
+    "subcategory": "General"
+  },
+  {
+    "name": "Plates",
+    "category": "🏡 Home & Furniture",
+    "subcategory": "General"
+  },
+  {
+    "name": "Bowls",
+    "category": "🏡 Home & Furniture",
+    "subcategory": "General"
+  },
+  {
+    "name": "Glasses",
+    "category": "🏡 Home & Furniture",
+    "subcategory": "General"
+  },
+  {
+    "name": "Mugs",
+    "category": "🏡 Home & Furniture",
+    "subcategory": "General"
+  },
+  {
+    "name": "Towels",
+    "category": "🏡 Home & Furniture",
+    "subcategory": "General"
+  },
+  {
+    "name": "Bath mats",
+    "category": "🏡 Home & Furniture",
+    "subcategory": "General"
+  },
+  {
+    "name": "Soap dispensers",
+    "category": "🏡 Home & Furniture",
+    "subcategory": "General"
+  },
+  {
+    "name": "Shower curtains",
+    "category": "🏡 Home & Furniture",
+    "subcategory": "General"
+  },
+  {
+    "name": "Storage boxes",
+    "category": "🏡 Home & Furniture",
+    "subcategory": "General"
+  },
+  {
+    "name": "Indoor plants",
+    "category": "🌿 Gardening & Tools",
+    "subcategory": "General"
+  },
+  {
+    "name": "Outdoor plants",
+    "category": "🌿 Gardening & Tools",
+    "subcategory": "General"
+  },
+  {
+    "name": "Herb seeds",
+    "category": "🌿 Gardening & Tools",
+    "subcategory": "General"
+  },
+  {
+    "name": "Vegetable seeds",
+    "category": "🌿 Gardening & Tools",
+    "subcategory": "General"
+  },
+  {
+    "name": "Flower seeds",
+    "category": "🌿 Gardening & Tools",
+    "subcategory": "General"
+  },
+  {
+    "name": "Fertilizer",
+    "category": "🌿 Gardening & Tools",
+    "subcategory": "General"
+  },
+  {
+    "name": "Compost",
+    "category": "🌿 Gardening & Tools",
+    "subcategory": "General"
+  },
+  {
+    "name": "Soil mix",
+    "category": "🌿 Gardening & Tools",
+    "subcategory": "General"
+  },
+  {
+    "name": "Pots",
+    "category": "🌿 Gardening & Tools",
+    "subcategory": "General"
+  },
+  {
+    "name": "Planters",
+    "category": "🌿 Gardening & Tools",
+    "subcategory": "General"
+  },
+  {
+    "name": "Watering cans",
+    "category": "🌿 Gardening & Tools",
+    "subcategory": "General"
+  },
+  {
+    "name": "Garden hose",
+    "category": "🌿 Gardening & Tools",
+    "subcategory": "General"
+  },
+  {
+    "name": "Sprinklers",
+    "category": "🌿 Gardening & Tools",
+    "subcategory": "General"
+  },
+  {
+    "name": "Pruning shears",
+    "category": "🌿 Gardening & Tools",
+    "subcategory": "General"
+  },
+  {
+    "name": "Rakes",
+    "category": "🌿 Gardening & Tools",
+    "subcategory": "General"
+  },
+  {
+    "name": "Shovels",
+    "category": "🌿 Gardening & Tools",
+    "subcategory": "General"
+  },
+  {
+    "name": "Trowels",
+    "category": "🌿 Gardening & Tools",
+    "subcategory": "General"
+  },
+  {
+    "name": "Garden gloves",
+    "category": "🌿 Gardening & Tools",
+    "subcategory": "General"
+  },
+  {
+    "name": "Wheelbarrow",
+    "category": "🌿 Gardening & Tools",
+    "subcategory": "General"
+  },
+  {
+    "name": "Lawnmower",
+    "category": "🌿 Gardening & Tools",
+    "subcategory": "General"
+  },
+  {
+    "name": "Hedge trimmer",
+    "category": "🌿 Gardening & Tools",
+    "subcategory": "General"
+  },
+  {
+    "name": "Leaf blower",
+    "category": "🌿 Gardening & Tools",
+    "subcategory": "General"
+  },
+  {
+    "name": "Chainsaw",
+    "category": "🌿 Gardening & Tools",
+    "subcategory": "General"
+  },
+  {
+    "name": "Pressure washer",
+    "category": "🌿 Gardening & Tools",
+    "subcategory": "General"
+  },
+  {
+    "name": "🧸 Toys & Kids",
+    "category": "🌿 Gardening & Tools",
+    "subcategory": "General"
+  },
+  {
+    "name": "Teddy bears",
+    "category": "🌿 Gardening & Tools",
+    "subcategory": "General"
+  },
+  {
+    "name": "Plush dolls",
+    "category": "🌿 Gardening & Tools",
+    "subcategory": "General"
+  },
+  {
+    "name": "Barbie dolls",
+    "category": "🌿 Gardening & Tools",
+    "subcategory": "General"
+  },
+  {
+    "name": "Toy cars",
+    "category": "🌿 Gardening & Tools",
+    "subcategory": "General"
+  },
+  {
+    "name": "RC cars",
+    "category": "🌿 Gardening & Tools",
+    "subcategory": "General"
+  },
+  {
+    "name": "Toy trains",
+    "category": "🌿 Gardening & Tools",
+    "subcategory": "General"
+  },
+  {
+    "name": "Building blocks",
+    "category": "🌿 Gardening & Tools",
+    "subcategory": "General"
+  },
+  {
+    "name": "Lego",
+    "category": "🌿 Gardening & Tools",
+    "subcategory": "General"
+  },
+  {
+    "name": "Play-Doh",
+    "category": "🌿 Gardening & Tools",
+    "subcategory": "General"
+  },
+  {
+    "name": "Coloring sets",
+    "category": "🌿 Gardening & Tools",
+    "subcategory": "General"
+  },
+  {
+    "name": "Crayons",
+    "category": "🌿 Gardening & Tools",
+    "subcategory": "General"
+  },
+  {
+    "name": "Puzzles",
+    "category": "🌿 Gardening & Tools",
+    "subcategory": "General"
+  },
+  {
+    "name": "Flashcards",
+    "category": "🌿 Gardening & Tools",
+    "subcategory": "General"
+  },
+  {
+    "name": "STEM kits",
+    "category": "🌿 Gardening & Tools",
+    "subcategory": "General"
+  },
+  {
+    "name": "Storybooks",
+    "category": "🌿 Gardening & Tools",
+    "subcategory": "General"
+  },
+  {
+    "name": "Mini football",
+    "category": "🌿 Gardening & Tools",
+    "subcategory": "General"
+  },
+  {
+    "name": "Basketball hoop",
+    "category": "🌿 Gardening & Tools",
+    "subcategory": "General"
+  },
+  {
+    "name": "Skipping rope",
+    "category": "🌿 Gardening & Tools",
+    "subcategory": "General"
+  },
+  {
+    "name": "Scooters",
+    "category": "🌿 Gardening & Tools",
+    "subcategory": "General"
+  },
+  {
+    "name": "Tricycles",
+    "category": "🌿 Gardening & Tools",
+    "subcategory": "General"
+  },
+  {
+    "name": "Baby bottles",
+    "category": "🌿 Gardening & Tools",
+    "subcategory": "General"
+  },
+  {
+    "name": "Pacifiers",
+    "category": "🌿 Gardening & Tools",
+    "subcategory": "General"
+  },
+  {
+    "name": "Baby stroller",
+    "category": "🌿 Gardening & Tools",
+    "subcategory": "General"
+  },
+  {
+    "name": "Baby crib",
+    "category": "🌿 Gardening & Tools",
+    "subcategory": "General"
+  },
+  {
+    "name": "High chair",
+    "category": "🌿 Gardening & Tools",
+    "subcategory": "General"
+  },
+  {
+    "name": "MS Office",
+    "category": "💻 Software & Apps",
+    "subcategory": "General"
+  },
+  {
+    "name": "Google Workspace",
+    "category": "💻 Software & Apps",
+    "subcategory": "General"
+  },
+  {
+    "name": "Notion",
+    "category": "💻 Software & Apps",
+    "subcategory": "General"
+  },
+  {
+    "name": "Trello",
+    "category": "💻 Software & Apps",
+    "subcategory": "General"
+  },
+  {
+    "name": "Slack",
+    "category": "💻 Software & Apps",
+    "subcategory": "General"
+  },
+  {
+    "name": "Photoshop",
+    "category": "💻 Software & Apps",
+    "subcategory": "General"
+  },
+  {
+    "name": "Illustrator",
+    "category": "💻 Software & Apps",
+    "subcategory": "General"
+  },
+  {
+    "name": "Figma",
+    "category": "💻 Software & Apps",
+    "subcategory": "General"
+  },
+  {
+    "name": "Premiere Pro",
+    "category": "💻 Software & Apps",
+    "subcategory": "General"
+  },
+  {
+    "name": "After Effects",
+    "category": "💻 Software & Apps",
+    "subcategory": "General"
+  },
+  {
+    "name": "Blender",
+    "category": "💻 Software & Apps",
+    "subcategory": "General"
+  },
+  {
+    "name": "Unity",
+    "category": "💻 Software & Apps",
+    "subcategory": "General"
+  },
+  {
+    "name": "Unreal Engine",
+    "category": "💻 Software & Apps",
+    "subcategory": "General"
+  },
+  {
+    "name": "Steam",
+    "category": "💻 Software & Apps",
+    "subcategory": "General"
+  },
+  {
+    "name": "Epic Games Launcher",
+    "category": "💻 Software & Apps",
+    "subcategory": "General"
+  },
+  {
+    "name": "Xbox Game Pass",
+    "category": "💻 Software & Apps",
+    "subcategory": "General"
+  },
+  {
+    "name": "Antivirus software",
+    "category": "💻 Software & Apps",
+    "subcategory": "General"
+  },
+  {
+    "name": "VPN services",
+    "category": "💻 Software & Apps",
+    "subcategory": "General"
+  },
+  {
+    "name": "Password manager",
+    "category": "💻 Software & Apps",
+    "subcategory": "General"
+  },
+  {
+    "name": "QuickBooks",
+    "category": "💻 Software & Apps",
+    "subcategory": "General"
+  },
+  {
+    "name": "Xero",
+    "category": "💻 Software & Apps",
+    "subcategory": "General"
+  },
+  {
+    "name": "HubSpot",
+    "category": "💻 Software & Apps",
+    "subcategory": "General"
+  },
+  {
+    "name": "Salesforce",
+    "category": "💻 Software & Apps",
+    "subcategory": "General"
+  },
+  {
+    "name": "Canva",
+    "category": "💻 Software & Apps",
+    "subcategory": "General"
+  },
+  {
+    "name": "Grammarly",
+    "category": "💻 Software & Apps",
+    "subcategory": "General"
+  },
+  {
+    "name": "Painkillers",
+    "category": "💊 Health & Wellness",
+    "subcategory": "General"
+  },
+  {
+    "name": "Antihistamines",
+    "category": "💊 Health & Wellness",
+    "subcategory": "General"
+  },
+  {
+    "name": "Band-aids",
+    "category": "💊 Health & Wellness",
+    "subcategory": "General"
+  },
+  {
+    "name": "First-aid kit",
+    "category": "💊 Health & Wellness",
+    "subcategory": "General"
+  },
+  {
+    "name": "Digital thermometer",
+    "category": "💊 Health & Wellness",
+    "subcategory": "General"
+  },
+  {
+    "name": "Blood pressure monitor",
+    "category": "💊 Health & Wellness",
+    "subcategory": "General"
+  },
+  {
+    "name": "Multivitamins",
+    "category": "💊 Health & Wellness",
+    "subcategory": "General"
+  },
+  {
+    "name": "Omega-3",
+    "category": "💊 Health & Wellness",
+    "subcategory": "General"
+  },
+  {
+    "name": "Vitamin D",
+    "category": "💊 Health & Wellness",
+    "subcategory": "General"
+  },
+  {
+    "name": "Protein powder",
+    "category": "💊 Health & Wellness",
+    "subcategory": "General"
+  },
+  {
+    "name": "Collagen powder",
+    "category": "💊 Health & Wellness",
+    "subcategory": "General"
+  },
+  {
+    "name": "Yoga mat",
+    "category": "💊 Health & Wellness",
+    "subcategory": "General"
+  },
+  {
+    "name": "Resistance bands",
+    "category": "💊 Health & Wellness",
+    "subcategory": "General"
+  },
+  {
+    "name": "Dumbbells",
+    "category": "💊 Health & Wellness",
+    "subcategory": "General"
+  },
+  {
+    "name": "Kettlebells",
+    "category": "💊 Health & Wellness",
+    "subcategory": "General"
+  },
+  {
+    "name": "Jump rope",
+    "category": "💊 Health & Wellness",
+    "subcategory": "General"
+  },
+  {
+    "name": "Treadmill",
+    "category": "💊 Health & Wellness",
+    "subcategory": "General"
+  },
+  {
+    "name": "Exercise bike",
+    "category": "💊 Health & Wellness",
+    "subcategory": "General"
+  },
+  {
+    "name": "Massage gun",
+    "category": "💊 Health & Wellness",
+    "subcategory": "General"
+  },
+  {
+    "name": "Sleep mask",
+    "category": "💊 Health & Wellness",
+    "subcategory": "General"
+  },
+  {
+    "name": "Essential oils",
+    "category": "💊 Health & Wellness",
+    "subcategory": "General"
+  },
+  {
+    "name": "Humidifier",
+    "category": "💊 Health & Wellness",
+    "subcategory": "General"
+  },
+  {
+    "name": "Heating pad",
+    "category": "💊 Health & Wellness",
+    "subcategory": "General"
+  },
+  {
+    "name": "🧳 Travel & Outdoors",
+    "category": "💊 Health & Wellness",
+    "subcategory": "General"
+  },
+  {
+    "name": "Backpacks",
+    "category": "💊 Health & Wellness",
+    "subcategory": "General"
+  },
+  {
+    "name": "Duffel bags",
+    "category": "💊 Health & Wellness",
+    "subcategory": "General"
+  },
+  {
+    "name": "Suitcases",
+    "category": "💊 Health & Wellness",
+    "subcategory": "General"
+  },
+  {
+    "name": "Tents",
+    "category": "💊 Health & Wellness",
+    "subcategory": "General"
+  },
+  {
+    "name": "Sleeping bags",
+    "category": "💊 Health & Wellness",
+    "subcategory": "General"
+  },
+  {
+    "name": "Camping mats",
+    "category": "💊 Health & Wellness",
+    "subcategory": "General"
+  },
+  {
+    "name": "Portable stoves",
+    "category": "💊 Health & Wellness",
+    "subcategory": "General"
+  },
+  {
+    "name": "Cooler boxes",
+    "category": "💊 Health & Wellness",
+    "subcategory": "General"
+  },
+  {
+    "name": "Folding chairs",
+    "category": "💊 Health & Wellness",
+    "subcategory": "General"
+  },
+  {
+    "name": "Lanterns",
+    "category": "💊 Health & Wellness",
+    "subcategory": "General"
+  },
+  {
+    "name": "Hiking boots",
+    "category": "💊 Health & Wellness",
+    "subcategory": "General"
+  },
+  {
+    "name": "Rain jackets",
+    "category": "💊 Health & Wellness",
+    "subcategory": "General"
+  },
+  {
+    "name": "Thermal wear",
+    "category": "💊 Health & Wellness",
+    "subcategory": "General"
+  },
+  {
+    "name": "Sunglasses",
+    "category": "💊 Health & Wellness",
+    "subcategory": "General"
+  },
+  {
+    "name": "Sunscreen",
+    "category": "💊 Health & Wellness",
+    "subcategory": "General"
+  },
+  {
+    "name": "Power banks",
+    "category": "💊 Health & Wellness",
+    "subcategory": "General"
+  },
+  {
+    "name": "Water bottles",
+    "category": "💊 Health & Wellness",
+    "subcategory": "General"
+  },
+  {
+    "name": "Binoculars",
+    "category": "💊 Health & Wellness",
+    "subcategory": "General"
+  },
+  {
+    "name": "Compass",
+    "category": "💊 Health & Wellness",
+    "subcategory": "General"
+  },
+  {
+    "name": "Kayaks",
+    "category": "💊 Health & Wellness",
+    "subcategory": "General"
+  },
+  {
+    "name": "Skateboards",
+    "category": "💊 Health & Wellness",
+    "subcategory": "General"
+  },
+  {
+    "name": "Bicycles",
+    "category": "💊 Health & Wellness",
+    "subcategory": "General"
+  },
+  {
+    "name": "Helmets",
+    "category": "💊 Health & Wellness",
+    "subcategory": "General"
+  },
+  {
+    "name": "Life jackets",
+    "category": "💊 Health & Wellness",
+    "subcategory": "General"
+  }
+]
